@@ -1,6 +1,9 @@
 Install requirents with python by typing
 pip install -r requirents.txt 
 
+Neo 4j db server must be running to create db items
+https://neo4j.com/download/
+
 Run django 
 python manage.py runserver
 
