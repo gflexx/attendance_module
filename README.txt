@@ -7,6 +7,10 @@ https://neo4j.com/download/
 Run django 
 python manage.py runserver
 
+To connect to the API inject your header with
+the authentication token provided during
+login in and registration
+
 // JAVA ANDROID
 URL url = new URL(API_URL);
 urlConnection = (HttpURLConnection)url.openConnection();
